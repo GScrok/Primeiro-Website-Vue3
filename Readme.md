@@ -6,3 +6,6 @@ Vue JS 3 Completo com Composition API, Vuex & Vue Router.
 
 Link do certificado: 
 https://udemy-certificate.s3.amazonaws.com/image/UC-74cf1f74-c704-4930-bfce-6f3c9c76b1ec.jpg
+
+
+(Tive um problema ao subir o código-fonte, pois acabei trocando de computador e o perdi. Assim que refizer o curso, subirei o código)
